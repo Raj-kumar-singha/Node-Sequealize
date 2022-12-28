@@ -13,7 +13,7 @@ It's a 3rd party package to be precise it's an Object Relational Mapping Library
 
 #### NOTE: -
 
-With Sequealize V5 ```findById()``` was replaced by ```findByPk()```
+After Upgrading the Sequealize version ```findById()``` was replaced by ```findByPk()```
 
 
 
